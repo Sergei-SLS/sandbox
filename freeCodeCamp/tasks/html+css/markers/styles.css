@@ -1,0 +1,18 @@
+/* Step 20Passed
+Create a CSS rule that targets the class two and set its background-color property to green.
+
+Also, create a separate CSS rule that targets the class three and set its background-color to blue. */
+
+h1 {
+    text-align: center;
+  }
+  
+  .marker {
+    width: 200px;
+    height: 25px;
+    margin: 10px auto;
+  }
+  
+  .one {
+    background-color: red;
+  }
